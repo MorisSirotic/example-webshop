@@ -1,0 +1,13 @@
+package com.moris.webshop.common.base;
+
+public class PlaceholderData {
+	
+public static final String DESC_SHORT = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultricies, lectus non maximus vulputate, neque quam blandit justo, vel faucibus sapien leo a arcu. Sed ut lacus dictum, semper orci non, rutrum tortor. Vivamus ut arcu mollis, pretium dui vitae, facilisis tortor. Ut facilisis purus porta elit egestas, gravida rutrum massa suscipit. Etiam gravida viverra libero, et sodales erat maximus eget. Donec vulputate vestibulum dui et varius. Phasellus accumsan faucibus nisl, vel ultricies turpis quis.";
+
+public static final String DESC_LONG = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id enim vel orci vehicula semper vel eu ante. Donec ante mi, egestas nec ullamcorper ac, feugiat at nibh. Vivamus lacus ligula, ultrices tempor condimentum quis, lobortis nec ex. Aliquam dignissim sit amet ligula vitae vulputate. Nulla at nisl at sapien dignissim tempor at ut eros. Cras non orci quam. Nam aliquet et lectus et venenatis. Vestibulum id libero ultrices est aliquet efficitur at eu nulla. Praesent quis metus quis erat tempus varius eget nec nulla. Sed nec pharetra tortor.\n"
+		+ "\n"
+		+ "Curabitur quis sagittis ipsum. Nunc imperdiet, elit eu malesuada sollicitudin, mauris enim pharetra sem, ut fringilla diam purus cursus odio. Suspendisse sit amet vulputate metus. Vivamus lacinia mauris et lectus viverra, vitae viverra ex mollis. Praesent sed vulputate massa, at lobortis magna. Aenean nunc tellus, placerat non pretium ac, malesuada at odio. Donec fringilla maximus lacus, blandit pharetra massa bibendum sed. Integer non dolor in magna tempus vestibulum. Maecenas posuere odio justo, a hendrerit nunc consequat id. Aliquam pellentesque mi ut neque rhoncus vulputate. Sed dignissim arcu id egestas pulvinar. Donec odio sem, sodales vitae quam eu, fringilla tempor odio. Integer et tellus ultrices, efficitur augue eget, ultrices augue. Aliquam ante dolor, sagittis eget hendrerit in, gravida nec purus.\n"
+		+ "\n"
+		+ "Aliquam eget ullamcorper sem. In laoreet imperdiet consectetur. Curabitur in cursus lorem, sit amet sollicitudin urna. Vestibulum dignissim sem ex, vel auctor eros sollicitudin ut. Donec tortor urna, cursus in porttitor ac, tincidunt id tortor. Pellentesque feugiat hendrerit nisi. Integer eleifend tellus nec ullamcorper tempor. Sed nec lacus nec risus laoreet pulvinar id id purus. Cras facilisis tortor et quam euismod volutpat. Suspendisse ut sollicitudin massa.";
+
+}
