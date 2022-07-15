@@ -1,5 +1,5 @@
 # example-webshop
-Note: the application published here comes with the H2 memory database. You won't be able to get any functionality on your end unless you set up a real database. Hosted application here used postgreSQL
+Note: the application published here comes with the H2 memory database. You won't be able to get any functionality on your end unless you set up a real database. Hosted application here uses postgreSQL
 => http://aquaticstore.ddns.net/
 
 Available operations in the application:
